@@ -2,6 +2,6 @@
 
 ## Practice by Mahfuz Antor
 
-### This is Lesson-5 branch code
+### This is Lesson-7 branch code
 
 ### Checking condition
